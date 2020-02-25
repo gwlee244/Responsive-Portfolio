@@ -189,10 +189,20 @@ input {
         }
 
     nav.navbar {
-        background-color: white;
-        border-bottom: 2px;
+        
+        border-bottom: 1px;
+        border-style: hidden;
         border-color: white;
         margin-left: 15px;
-        }
+    }
+
+    .navbar-toggler {
+        width: 60px;
+        height: 40px;
+    }
+
+    ul.navbar-nav {
+        padding: 30px;
+    }
 
 }
