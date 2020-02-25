@@ -158,7 +158,13 @@ input {
         padding: 4rem 2rem;
         width:100%;
         margin: 0;
-        }
+    }
+
+    body{
+        background-image: url("../images/white.png");
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+
 }
 
 @media (max-width: 767px){
