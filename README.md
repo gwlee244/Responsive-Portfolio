@@ -17,5 +17,5 @@ If you are opting out of career services, this is *still a required assignment*.
 
 * Updated LinkedIn profile
 
-![picture](/assets/images/screenshot.png)
+
 
