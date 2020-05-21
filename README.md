@@ -1,4 +1,3 @@
-# https://gwlee244.github.io/Responsive-Portfolio/
 
 # Unit 08 Project 1 Homework: Professional Materials
 
